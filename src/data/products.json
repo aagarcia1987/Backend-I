@@ -1,0 +1,48 @@
+[
+  {
+    "title": "Zapatillas Running",
+    "description": "Zapatillas deportivas para correr",
+    "code": "RUN-001",
+    "price": 19999,
+    "status": true,
+    "stock": 50,
+    "category": "Calzado"
+  },
+  {
+    "title": "Camisa deportiva",
+    "description": "Camisa deportiva de algodón",
+    "code": "CAM-002",
+    "price": 5999,
+    "status": true,
+    "stock": 100,
+    "category": "Ropa"
+  },
+  {
+    "title": "Pantalón deportivo",
+    "description": "Pantalón deportivo de algodón",
+    "code": "PAN-003",
+    "price": 7999,
+    "status": true,
+    "stock": 75,
+    "category": "Ropa"
+  },
+  {
+    "title": "Gorra deportiva",
+    "description": "Gorra deportiva de algodón",
+    "code": "GOR-004",
+    "price": 2999,
+    "status": true,
+    "stock": 150,
+    "category": "Accesorios"
+  },
+  {
+    "id": "7ab18fca-e6bb-4537-bdb0-05f3852fa32b",
+    "title": "gorro",
+    "description": "gorro",
+    "code": "111",
+    "price": 5000,
+    "stock": 2,
+    "status": true,
+    "category": "gorra"
+  }
+]
